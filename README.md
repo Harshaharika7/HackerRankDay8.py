@@ -58,9 +58,9 @@ harry=12299933
 
 How to Run: 
 
-Option 1: With input file Create a file named input.txt with the required input and run: python3 dictionaries_&_maps.py < input.txt
+Option 1: With input file Create a file named input.txt with the required input and run: python3 dictionaries_and_maps.py < input.txt
 
-Option 2: Manual input Just run: python3 dictionaries_&_maps.py
+Option 2: Manual input Just run: python3 dictionaries_and_maps.py
 
 🏅 HackerRank Score
 
